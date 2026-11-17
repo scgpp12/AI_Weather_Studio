@@ -1,0 +1,38 @@
+subject_definitions:
+<Subject 1> is the single person in <Picture 1>. Use that image for baseline identity, proportions and appearance.
+<Picture 2> provides spatial guidance: position, facing direction, pose and framing for each selected view.
+
+summary:
+[reference generation] Create one completed static character sheet of <Subject 1>. Show exactly 6 selected views simultaneously, once each, using the region records below. Each record describes one finished depiction, not several alternatives.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): partially_preserved - change only hand_state=bare; footwear_state=shod. Retain the same identity and every compatible unspecified reference detail.
+Resolve one shared character design from the appearance references and applicable explicit directives before arranging the views. Each region shows that same design from its assigned camera; a region is not an independent character redesign. A selected rendering style changes technique, not anatomy or outfit construction.
+New camera views do not authorize appearance changes. Infer unseen rear surfaces conservatively; add no unsupported design details.
+
+detailed_description:
+Keep the rendering style of <Picture 1>.
+[Shot 1] The completed image is present in the first frame and remains unchanged through the last frame. All selected views coexist in the same finished sheet. No movement, gestures, camera motion, cuts, transitions or temporal switching. Plain white background and consistent soft lighting.
+Unless an applicable explicit choice or named-part directive changes a feature, preserve the presence or absence of hair, and the reference hairstyle, hair parting, tied or loose arrangement, hair length and accessories, including the number and placement of gathered sections. A different view reveals the same construction, not a new hairstyle.
+Keep exactly the referenced garment inventory, construction, lengths, layers, materials, colors, patterns, fastenings and markings. Auto means retain the reference; do not complete a presumed costume category with new garments, layers or decorations. For unseen surfaces continue only the existing construction conservatively.
+Required inventory: 4 head-and-chest views + 2 full-body views = 6 selected views. Every listed view must have its own distinct region, exactly once. A full-body depiction does not replace a requested head, clothing, hand or foot detail.
+Head views: 4 separate regions in 2 row(s) and 2 column(s).
+Full-body views: 2 separate regions in 1 row(s) and 2 column(s).
+Region names, row numbers and inventory counts are instructions only, never printed labels.
+Create a new finished sheet using the appearance from <Picture 1> and applicable part references. Read position, facing direction, pose and framing from <Picture 2> for the assigned views described below. Scale each requested view to make full use of its region, keeping the complete requested crop visible at natural proportions with a small margin. Render all 6 selected views in the same rendering style as <Picture 1>.
+Panel face_front: Head views, row 1, column 1: front portrait; guide frame bounds in pixels [2,2,673,638]. One front-facing bust, complete head and hair through the upper chest. Both eyes visible; no waist, legs or feet. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera.
+Panel face_left: Head views, row 1, column 2: screen-right-facing profile portrait; guide frame bounds in pixels [677,2,1278,638]. Strict 90-degree profile: nose points to screen RIGHT. One visible eye; no front or three-quarter view. Include the complete head and hair through the upper chest; no waist, legs or feet. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera.
+Panel face_right: Head views, row 2, column 1: screen-left-facing profile portrait; guide frame bounds in pixels [2,642,673,1278]. Strict 90-degree profile: nose points to screen LEFT. One visible eye; do not mirror asymmetric features. Include the complete head and hair through the upper chest; no waist, legs or feet. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera.
+Panel face_3q_left: Head views, row 2, column 2: screen-right-facing three-quarter portrait; guide frame bounds in pixels [677,642,1278,1278]. Three-quarter view at 45 degrees: nose points to screen RIGHT. Both eyes visible with the farther eye foreshortened; not a front or strict profile view. Include the complete head and hair through the upper chest; no waist, legs or feet. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera.
+Panel body_front: Full-body views, row 1, column 1: full-body front; guide frame bounds in pixels [1282,2,1918,1278]. One full-body front view in a neutral standing pose. Include the complete head through both feet or footwear, with empty space above the head and beneath the soles. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera. Keep the shared garment construction, layers, lengths, sleeve structure, coverage and openings after applying eligible choices and part directives; camera rotation does not redesign the outfit.
+Panel body_back: Full-body views, row 1, column 2: full-body back; guide frame bounds in pixels [1922,2,2558,1278]. One direct rear full-body neutral standing view. Include the complete head through feet or footwear. No face visible; do not turn the head. Keep the shared identity and hair construction based on <Picture 1> and applicable explicit directives. Apply an eligible head_hair directive consistently; do not restyle hair for this camera. Keep the shared garment construction, layers, lengths, sleeve structure, coverage and openings after applying eligible choices and part directives; camera rotation does not redesign the outfit.
+Priority: assigned view, camera, crop and garment-only constraints; applicable clothing structure and hand/foot coverage choices; compatible named-part details; other details; then baseline reference. Change only the attribute controlled by a choice. Back-clothing details take precedence over upper clothing on visible rear surfaces. Never turn the person or widen a crop to reveal a hidden part.
+Choice hand_state (applies to body_front, body_back): All naturally visible hands are bare, with no gloves or mittens. Retain compatible jewelry and hand details.
+Choice footwear_state (applies to body_front, body_back): Both feet wear actual footwear. Retain compatible referenced or explicitly requested shoe design, materials and openings.
+Show only the selected views of the same identity. No extra people, views, sheet captions, panel labels or watermarks. Preserve existing subject lettering; new subject lettering is allowed only by an applicable part directive.
+
+overall_soundscape:
+None. No speech, vocalization, ambience or sound effects.
+
+non_diegetic_music:
+None.

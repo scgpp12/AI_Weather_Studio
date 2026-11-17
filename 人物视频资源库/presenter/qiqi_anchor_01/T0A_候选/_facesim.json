@@ -1,0 +1,58 @@
+{
+ "front_b.png": {
+  "sim": 0.812,
+  "faces": 1
+ },
+ "mid_b.png": {
+  "sim": 0.803,
+  "faces": 1
+ },
+ "late_b.png": {
+  "sim": 0.814,
+  "faces": 1
+ },
+ "full_front.png": {
+  "sim": 0.885,
+  "faces": 1
+ },
+ "qq_back_s263.png": {
+  "sim": null,
+  "faces": 0
+ },
+ "qq_back_s269.png": {
+  "sim": null,
+  "faces": 0
+ },
+ "qq_full_s229.png": {
+  "sim": 0.833,
+  "faces": 1
+ },
+ "qq_full_s233.png": {
+  "sim": 0.847,
+  "faces": 1
+ },
+ "qq_full_s239.png": {
+  "sim": 0.792,
+  "faces": 1
+ },
+ "qq_full_s241.png": {
+  "sim": 0.821,
+  "faces": 1
+ },
+ "qq_half_s251.png": {
+  "sim": 0.772,
+  "faces": 1
+ },
+ "qq_half_s257.png": {
+  "sim": 0.817,
+  "faces": 1
+ },
+ "qq_side_s263.png": {
+  "sim": 0.467,
+  "faces": 1
+ },
+ "qq_side_s269.png": {
+  "sim": 0.533,
+  "faces": 1
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "dir": "/mnt/storage/model-lab/castsery/qiqi_anchor/gpt3",
+ "prefix": "g3_full",
+ "refs": "face_front_a.png,costume_AUT-0066.png,qq_full_s233.png,r2_heart_P003_s313.png",
+ "size": "portrait orientation 2:3 (1024x1536)",
+ "refnote": "Image 1 is her face and the authority for who she is. Image 2 is the outfit. Image 3 shows how the outfit is worn on her. Image 4 shows her sweet smile.",
+ "id": "The woman is exactly the same person as image 1: copy her face exactly — the same oval face, brows, large eyes, nose, lips and skin; do not change her features. Clean translucent makeup, straight natural brows, soft warm brown eye makeup, soft peach-coral lips. Same hair as image 1: dark hair loosely gathered high at the back of the head into a casual bun with loose pieces, centre part, two long strands of fringe hanging by the cheeks to the jaw. She wears exactly the outfit in image 2, worn the way image 3 shows it: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, tucked into the shorts; a single-strand pearl necklace; olive-green wool shorts with wide turned-up cuffs; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. No bag: the small plaid chain bag in image 2 is not part of the outfit, her shoulders carry nothing.",
+ "style": "Plain flat seamless mid-grey studio background, one person only, soft even studio light. A real photograph of a real actress, real skin.",
+ "shots": [
+  {
+   "n": "front",
+   "caption": "正面全身",
+   "prompt": "Natural relaxed standing pose facing the camera, weight even, arms hanging naturally at her sides with empty hands. Expression: a sweet smile like image 4 — the corners of her mouth turn up showing a little of her upper teeth, her eyes curve slightly, her brows are relaxed and smooth. Full body from the top of the head to the boots."
+  },
+  {
+   "n": "side",
+   "caption": "侧面全身",
+   "prompt": "Side view: she stands in profile facing the right edge of the frame, arms relaxed, the face seen from the side with the same sweet smile. The bun and the fringe strands seen from the side. Full body from the top of the head to the boots."
+  },
+  {
+   "n": "back",
+   "caption": "背面全身",
+   "prompt": "Back view: she stands with her back to the camera, arms relaxed. Back of the hair: the loose high bun with loose pieces. Back of the outfit: the mustard-yellow blouse across her back with its collar band round the back of the neck, the pearl necklace clasp at the nape, the puffed sleeves down to the buttoned cuffs, the olive-green shorts with turned-up cuffs, the cream-white over-the-knee socks with the wine-red bows, the brown suede platform ankle boots. Full body from the top of the head to the boots."
+  }
+ ]
+}

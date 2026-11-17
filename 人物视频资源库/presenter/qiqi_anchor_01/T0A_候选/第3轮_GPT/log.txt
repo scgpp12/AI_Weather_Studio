@@ -1,0 +1,8 @@
+g3_full_front ok 147 s
+g3_full_side ok 147 s
+g3_full_back ok 122 s
+ALL DONE
+g3_waist_half ok 134 s
+g3_waist_point_P022 ok 132 s
+g3_waist_heart_P003 ok 127 s
+ALL DONE

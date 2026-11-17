@@ -1,0 +1,60 @@
+{
+ "g3_full_back.png": {
+  "sim": null,
+  "bbox": null
+ },
+ "g3_full_front.png": {
+  "sim": 0.658,
+  "bbox": [
+   461,
+   117,
+   580,
+   288
+  ]
+ },
+ "g3_full_side.png": {
+  "sim": 0.286,
+  "bbox": [
+   488,
+   144,
+   583,
+   303
+  ]
+ },
+ "g3_waist_half.png": {
+  "sim": 0.709,
+  "bbox": [
+   422,
+   226,
+   701,
+   620
+  ]
+ },
+ "g3_waist_heart_P003.png": {
+  "sim": 0.763,
+  "bbox": [
+   419,
+   210,
+   689,
+   589
+  ]
+ },
+ "g3_waist_point_P022.png": {
+  "sim": 0.745,
+  "bbox": [
+   426,
+   227,
+   703,
+   615
+  ]
+ },
+ "face_front_a.png": {
+  "sim": 1.0,
+  "bbox": [
+   423,
+   226,
+   701,
+   620
+  ]
+ }
+}

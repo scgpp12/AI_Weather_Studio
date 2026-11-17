@@ -1,0 +1,10 @@
+Create one character reference sheet from <Picture 1>.
+Preserve the same character design and rendering style across all views.
+White background. Each requested view appears once.
+Follow selected settings first, then compatible part instructions, then dedicated references. If dedicated references for the same role conflict, prefer the later input.
+Arrange columns from left to right; within a stacked column, read top to bottom:
+Front portrait, complete head and shoulders. Use <Picture 2> for facial appearance.
+Profile portrait facing image-right, complete head and shoulders. Use <Picture 2> for facial appearance.
+Full body facing forward, standing, complete figure visible. Use <Picture 2> for facial appearance.
+Full body in profile facing image-right, standing, complete figure visible. Use <Picture 2> for facial appearance.
+Full body from behind, standing, complete figure visible.
