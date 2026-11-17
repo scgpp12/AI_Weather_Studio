@@ -1,0 +1,346 @@
+[
+ {
+  "tag": "q_01_kaixin_s337",
+  "emo": "开心",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 22.1,
+  "card_peak_mib": 43651,
+  "proc_peak_mib": 38718,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_01_kaixin_s337.png",
+  "out_md5": "98f4ecb32c4e9bcf8696d14d622bed5b",
+  "chars": 293,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：嘴角轻轻上扬、嘴唇合着，头微微歪向一侧，右手掌心朝上摊在胸前，像在给观众介绍东西，左手自然垂在身侧。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_02_daxiao_s337",
+  "emo": "大笑",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 16.1,
+  "card_peak_mib": 44037,
+  "proc_peak_mib": 39104,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_02_daxiao_s337.png",
+  "out_md5": "b369383451e9d3e05eb01eb2651b494a",
+  "chars": 284,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：笑得眼睛眯成两道弯，脸颊鼓起，右手手背朝外掩在嘴前，两边肩膀往前缩，上身微微前倾。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_03_jingya_s337",
+  "emo": "惊讶",
+  "pose": "upper80v2_P015_front.png",
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 19.1,
+  "card_peak_mib": 46597,
+  "proc_peak_mib": 41664,
+  "refs": [
+   [
+    "upper80v2_P015_front.png",
+    "0f8a85081d5599b7d3a7dc420a753ab5"
+   ],
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_03_jingya_s337.png",
+  "out_md5": "a5491061d7135ed78dabc7da553718ff",
+  "chars": 301,
+  "prompt": "Picture 1 是一个线稿人台，照它的身体姿势和两只手的位置来摆。画的是 Picture 3 这个年轻东亚女人，脸和发型照 Picture 3，穿 Picture 2 里这身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。景别照 Picture 2：画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，用脸、手和身体一起表演：眼睛睁得很大，眉毛高高抬起，额头有几道横纹，双手手指并拢捂在嘴上，上身微微往后仰。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_04_jingxi_s337",
+  "emo": "惊喜",
+  "pose": "upper80v2_P016_front.png",
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 19.1,
+  "card_peak_mib": 46597,
+  "proc_peak_mib": 41664,
+  "refs": [
+   [
+    "upper80v2_P016_front.png",
+    "16e0d05bc5966fdae7e35d7f409d2b72"
+   ],
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_04_jingxi_s337.png",
+  "out_md5": "02565ff6b23bc5cb53a259143625f3c7",
+  "chars": 303,
+  "prompt": "Picture 1 是一个线稿人台，照它的身体姿势和两只手的位置来摆。画的是 Picture 3 这个年轻东亚女人，脸和发型照 Picture 3，穿 Picture 2 里这身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。景别照 Picture 2：画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，用脸、手和身体一起表演：嘴张开在笑，露出上排牙齿，眼睛发亮，双手在胸前合掌，肩膀轻轻耸起，身体轻快地往上一提。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_05_nanguo_s337",
+  "emo": "难过",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 16.3,
+  "card_peak_mib": 44069,
+  "proc_peak_mib": 39136,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_05_nanguo_s337.png",
+  "out_md5": "29676be685c37cadaa86a218037928e8",
+  "chars": 299,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：眼眶泛红，一行泪从左眼下沿滑到脸颊中间，泪痕发亮，嘴角往下撇，头低着、眼睛往下看，右手手背抬到右眼旁边轻轻擦泪。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_06_ku_s337",
+  "emo": "哭",
+  "pose": "upper80v2_P020_front.png",
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 19.1,
+  "card_peak_mib": 46661,
+  "proc_peak_mib": 41728,
+  "refs": [
+   [
+    "upper80v2_P020_front.png",
+    "ffec86fc3ec3f34ce9b475ef21aaef18"
+   ],
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_06_ku_s337.png",
+  "out_md5": "3e86f8aebbeaec0a439643f53b54f13d",
+  "chars": 314,
+  "prompt": "Picture 1 是一个线稿人台，照它的身体姿势和两只手的位置来摆。画的是 Picture 3 这个年轻东亚女人，脸和发型照 Picture 3，穿 Picture 2 里这身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。景别照 Picture 2：画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，用脸、手和身体一起表演：满脸是泪，两边脸颊湿亮，泪痕从眼角一直流到下巴，双手掌心捂住下半张脸，眼睛紧闭，眉头皱成一团，两边肩膀缩起。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_07_shengqi_s337",
+  "emo": "生气",
+  "pose": "upper80v2_P041_front.png",
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 19.1,
+  "card_peak_mib": 46597,
+  "proc_peak_mib": 41664,
+  "refs": [
+   [
+    "upper80v2_P041_front.png",
+    "9f317c31b551fab1aaa7769df93115c3"
+   ],
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_07_shengqi_s337.png",
+  "out_md5": "a9073bc661e688597ee8468bf09d4089",
+  "chars": 305,
+  "prompt": "Picture 1 是一个线稿人台，照它的身体姿势和两只手的位置来摆。画的是 Picture 3 这个年轻东亚女人，脸和发型照 Picture 3，穿 Picture 2 里这身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。景别照 Picture 2：画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，用脸、手和身体一起表演：眉头紧皱、两道眉往中间压，嘴唇抿成一条线，双臂交叉抱在胸前，下巴微微抬起，眼睛直盯着镜头。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_08_danxin_s337",
+  "emo": "担心关切",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 17.1,
+  "card_peak_mib": 44037,
+  "proc_peak_mib": 39104,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_08_danxin_s337.png",
+  "out_md5": "17bee4a674da4d0ebd4b6c05cc8493de",
+  "chars": 275,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：眉心微微皱起，眼睛关切地看着镜头，右手掌心按在胸口，上身往前倾。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_09_haixiu_s337",
+  "emo": "害羞",
+  "pose": "upper80v2_P011_front.png",
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 19.1,
+  "card_peak_mib": 46597,
+  "proc_peak_mib": 41664,
+  "refs": [
+   [
+    "upper80v2_P011_front.png",
+    "7a504e3ecf52902073665149cb6c94b4"
+   ],
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_09_haixiu_s337.png",
+  "out_md5": "687361a24d08a33a6011c87997b4ac68",
+  "chars": 302,
+  "prompt": "Picture 1 是一个线稿人台，照它的身体姿势和两只手的位置来摆。画的是 Picture 3 这个年轻东亚女人，脸和发型照 Picture 3，穿 Picture 2 里这身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。景别照 Picture 2：画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，用脸、手和身体一起表演：两边脸颊泛着红晕，头低着、眼睛往上抬看着镜头，右手掌心挡住左半边脸，嘴角抿着一点笑。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_10_sikao_s337",
+  "emo": "思考",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 17.1,
+  "card_peak_mib": 44037,
+  "proc_peak_mib": 39104,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_10_sikao_s337.png",
+  "out_md5": "37a69f5b0840c3cb253436a928467ae4",
+  "chars": 279,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：眼睛往右上方看，右手食指轻点在下巴上，左手横在胸前托着右手肘，嘴唇微抿。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_11_bobao_s337",
+  "emo": "认真播报",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 17.1,
+  "card_peak_mib": 44037,
+  "proc_peak_mib": 39104,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_11_bobao_s337.png",
+  "out_md5": "db132b56e4b950daaddcc3b1e0f3425d",
+  "chars": 283,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：嘴角带一点浅浅的笑意，眼睛平和地看着镜头，双手交叠放在腹前，肩膀放平，站得端正。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "q_12_wunai_s337",
+  "emo": "无奈",
+  "pose": null,
+  "ok": true,
+  "err": "",
+  "seed": 337,
+  "w": 1104,
+  "h": 1376,
+  "sec": 17.1,
+  "card_peak_mib": 44037,
+  "proc_peak_mib": 39104,
+  "refs": [
+   [
+    "g3_waist_half.png",
+    "02b2cf940c246ce984dac1942c02ff89"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/emo2q/q_12_wunai_s337.png",
+  "out_md5": "9518da9bb1204d236c90e799dfef5937",
+  "chars": 281,
+  "prompt": "Picture 1 是这个人到腰的半身照，景别、衣服、发型、光线都照 Picture 1。Picture 2 是她的脸，脸照 Picture 2。她穿着同一身衣服：芥末黄丝质衬衫，领口系着长长的蝴蝶结，泡泡长袖收进带扣的袖口，衬衫塞进短裤里；单圈珍珠项链；橄榄绿呢料高腰短裤。两边肩上空着。画面从头顶拍到腰，裤腰在画面最下边。她正面朝镜头，换成这个姿势，用脸、手和身体一起表演：嘴角往一边撇，眉毛一高一低，两边肩膀耸起，双手手肘弯着、掌心朝上向两边摊开。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人照片，真实皮肤和真实布料质感。"
+ }
+]

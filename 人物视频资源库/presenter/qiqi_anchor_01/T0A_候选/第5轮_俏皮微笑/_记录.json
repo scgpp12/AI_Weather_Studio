@@ -1,0 +1,750 @@
+[
+ {
+  "tag": "qq_full_s229",
+  "ok": true,
+  "err": "",
+  "seed": 229,
+  "w": 1056,
+  "h": 1408,
+  "sec": 30.1,
+  "card_peak_mib": 49361,
+  "proc_peak_mib": 44428,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_full_s229.png",
+  "out_md5": "1be1bff315a743a175657ff4f5483831",
+  "chars": 1078,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_full_s233",
+  "ok": true,
+  "err": "",
+  "seed": 233,
+  "w": 1056,
+  "h": 1408,
+  "sec": 15.3,
+  "card_peak_mib": 49777,
+  "proc_peak_mib": 44844,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_full_s233.png",
+  "out_md5": "5953ef8f7982a123317010fe4bca1d20",
+  "chars": 1078,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_full_s239",
+  "ok": true,
+  "err": "",
+  "seed": 239,
+  "w": 1056,
+  "h": 1408,
+  "sec": 16.1,
+  "card_peak_mib": 49777,
+  "proc_peak_mib": 44844,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_full_s239.png",
+  "out_md5": "656f024e0efdf75a4f829392453e2581",
+  "chars": 1078,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_full_s241",
+  "ok": true,
+  "err": "",
+  "seed": 241,
+  "w": 1056,
+  "h": 1408,
+  "sec": 16.1,
+  "card_peak_mib": 49777,
+  "proc_peak_mib": 44844,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_full_s241.png",
+  "out_md5": "043baaa32e86e6710ce9fef2936260f1",
+  "chars": 1078,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_half_s251",
+  "ok": true,
+  "err": "",
+  "seed": 251,
+  "w": 1104,
+  "h": 1216,
+  "sec": 19.1,
+  "card_peak_mib": 47777,
+  "proc_peak_mib": 42844,
+  "refs": [
+   [
+    "pose_P017_half.png",
+    "a3118b7733869bb25778adbb95199390"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_half_s251.png",
+  "out_md5": "966e3d208849c75c1e2c98e698ff8bd3",
+  "chars": 1129,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 半身・两手自然垂在身侧（站姿）, her head and body facing the camera, framed from the top of the head down to the waist. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_half_s257",
+  "ok": true,
+  "err": "",
+  "seed": 257,
+  "w": 1104,
+  "h": 1216,
+  "sec": 13.3,
+  "card_peak_mib": 47777,
+  "proc_peak_mib": 42844,
+  "refs": [
+   [
+    "pose_P017_half.png",
+    "a3118b7733869bb25778adbb95199390"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_half_s257.png",
+  "out_md5": "a938d6e9ed7f0c6d8b1da7002b37ba65",
+  "chars": 1129,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder; both hands are empty and hang naturally at her sides. Pose name (Chinese): 半身・两手自然垂在身侧（站姿）, her head and body facing the camera, framed from the top of the head down to the waist. Give her a natural facial expression that fits this pose, with specific facial muscle actions. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "qq_side_s263",
+  "ok": true,
+  "err": "",
+  "seed": 263,
+  "w": 1024,
+  "h": 1536,
+  "sec": 17.1,
+  "card_peak_mib": 43937,
+  "proc_peak_mib": 39004,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s229.png",
+    "1be1bff315a743a175657ff4f5483831"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_side_s263.png",
+  "out_md5": "993dfe98ffcfe8d86b007b99846237e0",
+  "chars": 1092,
+  "prompt": "Picture 1 is this person's face. Picture 2 is the same person standing facing the camera in full costume. Same person, same face, same build, same height. Side view, full body: She stands in profile facing the right edge of the frame, arms relaxed, head facing the same way as the body with the face seen edge-on from the side, one ear towards the camera. WEAR EXACTLY THE SAME COSTUME AS PICTURE 2 - every garment, every layer, the same colours, the same patterns in the same places, the same belt, the same trim, the same footwear. Keep the mustard-yellow silky blouse with the long pussy-bow at the collar and the puffed sleeves with buttoned cuffs, the pearl necklace, the olive-green shorts with turned-up cuffs, the cream-white over-the-knee socks with the wine-red bows at the top, the brown suede platform ankle boots, and her dark hair tied up in a loose bun. Hands empty. Plain flat seamless mid-grey studio background, one person only, soft even studio light, photorealistic live-action costume photo, real skin and real fabric. Full body from the top of the head down to the feet."
+ },
+ {
+  "tag": "qq_side_s269",
+  "ok": true,
+  "err": "",
+  "seed": 269,
+  "w": 1024,
+  "h": 1536,
+  "sec": 14.1,
+  "card_peak_mib": 43937,
+  "proc_peak_mib": 39004,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s229.png",
+    "1be1bff315a743a175657ff4f5483831"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_side_s269.png",
+  "out_md5": "03568a33cf510e40e077e75b2fc2e931",
+  "chars": 1092,
+  "prompt": "Picture 1 is this person's face. Picture 2 is the same person standing facing the camera in full costume. Same person, same face, same build, same height. Side view, full body: She stands in profile facing the right edge of the frame, arms relaxed, head facing the same way as the body with the face seen edge-on from the side, one ear towards the camera. WEAR EXACTLY THE SAME COSTUME AS PICTURE 2 - every garment, every layer, the same colours, the same patterns in the same places, the same belt, the same trim, the same footwear. Keep the mustard-yellow silky blouse with the long pussy-bow at the collar and the puffed sleeves with buttoned cuffs, the pearl necklace, the olive-green shorts with turned-up cuffs, the cream-white over-the-knee socks with the wine-red bows at the top, the brown suede platform ankle boots, and her dark hair tied up in a loose bun. Hands empty. Plain flat seamless mid-grey studio background, one person only, soft even studio light, photorealistic live-action costume photo, real skin and real fabric. Full body from the top of the head down to the feet."
+ },
+ {
+  "tag": "qq_back_s263",
+  "ok": true,
+  "err": "",
+  "seed": 263,
+  "w": 1024,
+  "h": 1536,
+  "sec": 17.2,
+  "card_peak_mib": 44556,
+  "proc_peak_mib": 39004,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s229.png",
+    "1be1bff315a743a175657ff4f5483831"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_back_s263.png",
+  "out_md5": "d7cb276ebecffeb0e74d67966f7bfa59",
+  "chars": 1093,
+  "prompt": "Picture 1 is this person's face. Picture 2 is the same person standing facing the camera in full costume. Same person, same face, same build, same height. Back view, full body: She stands with her back to the camera, arms relaxed, the back of the head and the whole back of the costume towards the lens. Back of the hair: her dark hair gathered up into a loose bun at the crown, loose wisps at the nape. Back of the outfit: the mustard-yellow silky blouse covering her back, its collar band running round the back of the neck with the pearl necklace's clasp at the nape, the puffed sleeves on both arms down to the buttoned cuffs, the blouse tucked into the olive-green shorts, the waistband going all the way round, the turned-up cuffs of the shorts, the cream-white over-the-knee socks with a wine-red bow at the top of each, the brown suede platform ankle boots with block heels. Plain flat seamless mid-grey studio background, one person only, soft even studio light, photorealistic live-action costume photo, real skin and real fabric. Full body from the top of the head down to the feet."
+ },
+ {
+  "tag": "qq_back_s269",
+  "ok": true,
+  "err": "",
+  "seed": 269,
+  "w": 1024,
+  "h": 1536,
+  "sec": 14.1,
+  "card_peak_mib": 43937,
+  "proc_peak_mib": 39004,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s229.png",
+    "1be1bff315a743a175657ff4f5483831"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/qq_back_s269.png",
+  "out_md5": "42030cd06822fd63f0841801ce377155",
+  "chars": 1093,
+  "prompt": "Picture 1 is this person's face. Picture 2 is the same person standing facing the camera in full costume. Same person, same face, same build, same height. Back view, full body: She stands with her back to the camera, arms relaxed, the back of the head and the whole back of the costume towards the lens. Back of the hair: her dark hair gathered up into a loose bun at the crown, loose wisps at the nape. Back of the outfit: the mustard-yellow silky blouse covering her back, its collar band running round the back of the neck with the pearl necklace's clasp at the nape, the puffed sleeves on both arms down to the buttoned cuffs, the blouse tucked into the olive-green shorts, the waistband going all the way round, the turned-up cuffs of the shorts, the cream-white over-the-knee socks with a wine-red bow at the top of each, the brown suede platform ankle boots with block heels. Plain flat seamless mid-grey studio background, one person only, soft even studio light, photorealistic live-action costume photo, real skin and real fabric. Full body from the top of the head down to the feet."
+ },
+ {
+  "tag": "r2_full_s281",
+  "ok": true,
+  "err": "",
+  "seed": 281,
+  "w": 1056,
+  "h": 1408,
+  "sec": 48.1,
+  "card_peak_mib": 95834,
+  "proc_peak_mib": 39756,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_full_s281.png",
+  "out_md5": "fe638319feab7992284ecef12c788495",
+  "chars": 1150,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r2_full_s283",
+  "ok": true,
+  "err": "",
+  "seed": 283,
+  "w": 1056,
+  "h": 1408,
+  "sec": 30.2,
+  "card_peak_mib": 97066,
+  "proc_peak_mib": 40364,
+  "refs": [
+   [
+    "pose_P017_front.png",
+    "f0890b4d6b28ad26f340ed1b9aaba773"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_full_s283.png",
+  "out_md5": "230eba81c3130582575231131cfd83b9",
+  "chars": 1150,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Both hands are empty and hang naturally at her sides. Pose name (Chinese): 站立・两手自然垂在身侧（站姿）, her head and body facing the camera. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r2_half_s293",
+  "ok": true,
+  "err": "",
+  "seed": 293,
+  "w": 1104,
+  "h": 1216,
+  "sec": 29.1,
+  "card_peak_mib": 97242,
+  "proc_peak_mib": 40636,
+  "refs": [
+   [
+    "pose_P017_half.png",
+    "a3118b7733869bb25778adbb95199390"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_half_s293.png",
+  "out_md5": "b1c0f2842256c17f2088c4775c86af42",
+  "chars": 1245,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Both hands are empty and hang naturally at her sides. Pose name (Chinese): 半身・两手自然垂在身侧（站姿）, her head and body facing the camera. The camera frames her only down to the waist; everything below the waist is outside the frame. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r2_half_s307",
+  "ok": true,
+  "err": "",
+  "seed": 307,
+  "w": 1104,
+  "h": 1216,
+  "sec": 13.4,
+  "card_peak_mib": 44321,
+  "proc_peak_mib": 39388,
+  "refs": [
+   [
+    "pose_P017_half.png",
+    "a3118b7733869bb25778adbb95199390"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_half_s307.png",
+  "out_md5": "7a72eef73cc8fc69c4b2727de524d26c",
+  "chars": 1245,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Both hands are empty and hang naturally at her sides. Pose name (Chinese): 半身・两手自然垂在身侧（站姿）, her head and body facing the camera. The camera frames her only down to the waist; everything below the waist is outside the frame. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r2_point_P022_s311",
+  "ok": true,
+  "err": "",
+  "seed": 311,
+  "w": 1056,
+  "h": 1408,
+  "sec": 22.3,
+  "card_peak_mib": 49747,
+  "proc_peak_mib": 44814,
+  "refs": [
+   [
+    "pose_upper_P022.png",
+    "a1fabf258c296b349a30453ef5bcbfe0"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_point_P022_s311.png",
+  "out_md5": "8184c263e8b12c977b573d5c8aeaedf8",
+  "chars": 1316,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Her right hand reaches forward towards the camera with the index finger pointing straight at the lens; her left arm hangs relaxed. Pose name (Chinese): 手指镜头（可爱系）, her head and body facing the camera. The camera frames her only down to the waist; everything below the waist is outside the frame. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r2_heart_P003_s313",
+  "ok": true,
+  "err": "",
+  "seed": 313,
+  "w": 1056,
+  "h": 1408,
+  "sec": 22.2,
+  "card_peak_mib": 49747,
+  "proc_peak_mib": 44814,
+  "refs": [
+   [
+    "pose_upper_P003.png",
+    "1fcb449fb5890be77d8a915a4338e47d"
+   ],
+   [
+    "costume_AUT-0066.png",
+    "2ad26cee1777f9da2da72ba20ff160ce"
+   ],
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r2_heart_P003_s313.png",
+  "out_md5": "127e4e9feec78be4af8791362372ba6d",
+  "chars": 1322,
+  "prompt": "Picture 1 is a faceless mannequin showing the exact body pose and framing to copy. Draw the young East Asian woman with the face and dark hair of Picture 3, preserving Picture 3's facial width, eye shape and spacing, nose proportions, and full lip shape, wearing the outfit in Picture 2 exactly: a mustard-yellow silky blouse with a long soft pussy-bow tied at the collar and puffed long sleeves gathered into buttoned cuffs, the blouse tucked into the shorts; a single-strand pearl necklace at the collar; olive-green wool shorts with wide turned-up cuffs at the hem; cream-white ribbed over-the-knee socks, each with a wine-red ribbon bow at the top band; brown suede platform ankle boots with chunky block heels. Nothing is carried on her left shoulder. Her right hand is raised beside her cheek making a small finger heart, thumb and index finger crossed; her left hand rests on her hip. Pose name (Chinese): 脸侧手指比心（可爱系）, her head and body facing the camera. The camera frames her only down to the waist; everything below the waist is outside the frame. Her expression is a sweet smile: the corners of her mouth turn up, showing a little of her upper teeth, her eyes curve slightly, and her brows are relaxed and smooth. Photorealistic game-CG style, soft studio light, plain grey background, one person only, no text."
+ },
+ {
+  "tag": "r4_A_s317",
+  "ok": true,
+  "err": "",
+  "seed": 317,
+  "w": 1024,
+  "h": 1280,
+  "sec": 36.1,
+  "card_peak_mib": 72884,
+  "proc_peak_mib": 38310,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_A_s317.png",
+  "out_md5": "87a0dc2fb8bbcd15ae4f9012c21c80c5",
+  "chars": 258,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴唇合着，嘴角轻轻往上提一点，脸颊微微鼓起，眼睛平常睁着，眼神柔和。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_A_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 24.1,
+  "card_peak_mib": 73300,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_A_s331.png",
+  "out_md5": "3903346bfb6857b6aea8698283723c57",
+  "chars": 258,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴唇合着，嘴角轻轻往上提一点，脸颊微微鼓起，眼睛平常睁着，眼神柔和。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_B_s317",
+  "ok": true,
+  "err": "",
+  "seed": 317,
+  "w": 1024,
+  "h": 1280,
+  "sec": 25.2,
+  "card_peak_mib": 73300,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_B_s317.png",
+  "out_md5": "706a6a55f676a79c3c9bc03343dc1408",
+  "chars": 256,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴角微扬，嘴唇微微张开一条缝，下眼睑轻轻上推，眼尾有一点点笑纹。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_B_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 12.1,
+  "card_peak_mib": 44500,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_B_s331.png",
+  "out_md5": "11939ae54d3905008b239687451dbfc0",
+  "chars": 256,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴角微扬，嘴唇微微张开一条缝，下眼睑轻轻上推，眼尾有一点点笑纹。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_C_s317",
+  "ok": true,
+  "err": "",
+  "seed": 317,
+  "w": 1024,
+  "h": 1280,
+  "sec": 19.1,
+  "card_peak_mib": 73652,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_C_s317.png",
+  "out_md5": "7c261bb4c99ceb63a9a16bdbd38048c0",
+  "chars": 262,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：像刚说完一句话、正要接着说，嘴唇自然微张，嘴角上扬，右边嘴角比左边稍高一点。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_C_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 24.1,
+  "card_peak_mib": 73652,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_C_s331.png",
+  "out_md5": "5c147050d5d327f5e778cfcd690fe81f",
+  "chars": 262,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：像刚说完一句话、正要接着说，嘴唇自然微张，嘴角上扬，右边嘴角比左边稍高一点。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_D_s317",
+  "ok": true,
+  "err": "",
+  "seed": 317,
+  "w": 1024,
+  "h": 1280,
+  "sec": 31.4,
+  "card_peak_mib": 73652,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_D_s317.png",
+  "out_md5": "44e1a065790efe7f9beea6ab979d4947",
+  "chars": 252,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴角上扬，露出一点点上排牙齿，眼睛微弯，脸颊只微微抬起。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_D_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 22.2,
+  "card_peak_mib": 73652,
+  "proc_peak_mib": 38726,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_D_s331.png",
+  "out_md5": "ec26646cb53ba15ae847a755ae4a52ff",
+  "chars": 252,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：嘴角上扬，露出一点点上排牙齿，眼睛微弯，脸颊只微微抬起。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r4_C_EN_s317",
+  "ok": true,
+  "err": "",
+  "seed": 317,
+  "w": 1024,
+  "h": 1280,
+  "sec": 32.1,
+  "card_peak_mib": 73140,
+  "proc_peak_mib": 38758,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r4_C_EN_s317.png",
+  "out_md5": "d4f75e9bd9d6708220de0e728a8d85e4",
+  "chars": 811,
+  "prompt": "Picture 1 is this person's face. Picture 2 is the same person standing facing the camera in full costume. Same person, same face, same build. Chest-up portrait: she faces the camera and looks into the lens, framed from the top of the head down to the chest, wearing the same mustard-yellow silky blouse with the long pussy-bow at the collar and the same pearl necklace as picture 2, her dark hair tied up in the same loose bun with loose pieces as picture 1. Expression: As if she has just finished a sentence and is about to go on: her lips naturally slightly parted, the corners of her mouth turned up, the right corner a little higher than the left. Plain flat seamless mid-grey studio background, one person only, soft even studio light, photorealistic live-action portrait photo, real skin and real fabric."
+ },
+ {
+  "tag": "r5_E_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 20.1,
+  "card_peak_mib": 43277,
+  "proc_peak_mib": 38344,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r5_E_s331.png",
+  "out_md5": "2fc2d929b5084b435e6b92d0c42e1c87",
+  "chars": 331,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：眉头内侧微微抬起，左眼微微眯起、下眼睑隆起，右眼睁着带笑，脸颊向上鼓起，嘴角轻轻上扬，左边比右边略高一点，嘴唇分开一条缝，舌尖从中间露出一点点，头向左歪约十度，肩膀微微缩起，右手握成松松的拳头轻轻贴在右侧太阳穴旁。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r5_F_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 14.2,
+  "card_peak_mib": 43693,
+  "proc_peak_mib": 38760,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r5_F_s331.png",
+  "out_md5": "cc616ab55b112e7191ec6222d9a3042a",
+  "chars": 328,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：头向右歪约十度，右眼闭成一条弯弯的线，右侧脸颊向上鼓起，左眼睁着、下眼睑微微隆起，眼角挤出细小的笑纹，左眉略扬，嘴角向上弯起，右边嘴角比左边高一点，嘴唇轻轻分开，只露出上排两三颗牙，右手比 V 放在右眼旁边。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ },
+ {
+  "tag": "r5_G_s331",
+  "ok": true,
+  "err": "",
+  "seed": 331,
+  "w": 1024,
+  "h": 1280,
+  "sec": 14.3,
+  "card_peak_mib": 43725,
+  "proc_peak_mib": 38792,
+  "refs": [
+   [
+    "face_front_a.png",
+    "62824f0aa09dbaef392bbdbbd4019652"
+   ],
+   [
+    "qq_full_s233.png",
+    "5953ef8f7982a123317010fe4bca1d20"
+   ]
+  ],
+  "out": "/mnt/storage/model-lab/castsery/qiqi_anchor/r5_G_s331.png",
+  "out_md5": "a5aadcf0231cab3f3959ccb3142dfb37",
+  "chars": 320,
+  "prompt": "Picture 1 是这个人的脸。Picture 2 是同一个人穿着全套衣服正面站着。同一个人，同一张脸，同样的身材。胸口以上的近景：她正面朝镜头、看着镜头，画面从头顶到胸口，穿着和 Picture 2 一样的芥末黄丝质衬衫，领口系着长长的蝴蝶结，戴着同一条珍珠项链，深色头发和 Picture 1 一样松松挽成发髻、有几缕碎发。表情：头向左歪约十五度，下巴微收，眼睛抬起直视镜头，下眼睑微微隆起，眼角挤出细小的笑纹，嘴唇抿在一起、嘴角向上翘，左边嘴角略高一点，右侧脸颊一个浅酒窝，两颊透出淡淡的粉色，右手指尖轻轻贴在右脸颊上。中性灰纯色棚拍背景，背景平整一体，画面里只有她一个人，柔和均匀的棚灯，写实真人肖像照片，真实皮肤和真实布料质感。"
+ }
+]

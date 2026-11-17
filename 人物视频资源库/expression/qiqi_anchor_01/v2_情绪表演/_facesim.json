@@ -1,0 +1,98 @@
+{
+ "g_01_kaixin.png": {
+  "sim": 0.733,
+  "faces": 1
+ },
+ "g_02_daxiao.png": {
+  "sim": 0.469,
+  "faces": 1
+ },
+ "g_03_jingya.png": {
+  "sim": 0.518,
+  "faces": 1
+ },
+ "g_04_jingxi.png": {
+  "sim": 0.656,
+  "faces": 1
+ },
+ "g_05_nanguo.png": {
+  "sim": 0.48,
+  "faces": 1
+ },
+ "g_06_ku.png": {
+  "sim": 0.361,
+  "faces": 1
+ },
+ "g_07_shengqi.png": {
+  "sim": 0.727,
+  "faces": 1
+ },
+ "g_08_danxin.png": {
+  "sim": 0.799,
+  "faces": 1
+ },
+ "g_09_haixiu.png": {
+  "sim": 0.524,
+  "faces": 1
+ },
+ "g_10_sikao.png": {
+  "sim": 0.812,
+  "faces": 1
+ },
+ "g_11_bobao.png": {
+  "sim": 0.821,
+  "faces": 1
+ },
+ "g_12_wunai.png": {
+  "sim": 0.606,
+  "faces": 1
+ },
+ "q_01_kaixin_s337.png": {
+  "sim": 0.712,
+  "faces": 1
+ },
+ "q_02_daxiao_s337.png": {
+  "sim": 0.515,
+  "faces": 1
+ },
+ "q_03_jingya_s337.png": {
+  "sim": 0.502,
+  "faces": 1
+ },
+ "q_04_jingxi_s337.png": {
+  "sim": 0.704,
+  "faces": 1
+ },
+ "q_05_nanguo_s337.png": {
+  "sim": 0.738,
+  "faces": 1
+ },
+ "q_06_ku_s337.png": {
+  "sim": 0.442,
+  "faces": 1
+ },
+ "q_07_shengqi_s337.png": {
+  "sim": 0.733,
+  "faces": 1
+ },
+ "q_08_danxin_s337.png": {
+  "sim": 0.825,
+  "faces": 1
+ },
+ "q_09_haixiu_s337.png": {
+  "sim": 0.658,
+  "faces": 1
+ },
+ "q_10_sikao_s337.png": {
+  "sim": 0.827,
+  "faces": 1
+ },
+ "q_11_bobao_s337.png": {
+  "sim": 0.737,
+  "faces": 1
+ },
+ "q_12_wunai_s337.png": {
+  "sim": 0.679,
+  "faces": 1
+ }
+}

@@ -1,0 +1,15 @@
+g_01_kaixin ok 98 s
+g_09_haixiu ok 121 s
+g_05_nanguo ok 130 s
+g_02_daxiao ok 89 s
+g_10_sikao ok 115 s
+g_06_ku ok 117 s
+g_03_jingya ok 111 s
+g_11_bobao ok 127 s
+g_07_shengqi ok 119 s
+g_04_jingxi ok 126 s
+ALL DONE
+g_08_danxin ok 98 s
+ALL DONE
+g_12_wunai ok 123 s
+ALL DONE
